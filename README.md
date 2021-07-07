@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LevHunter
+- 👀 I’m interested in analyzing health information to determine what variables help to improve mental health the most
+- 🌱 I’m currently learning how to become a data scientist. 
+- 💞️ I’m looking to collaborate on health and wellness projects
+- 📫 How to reach me: Message me on Github
